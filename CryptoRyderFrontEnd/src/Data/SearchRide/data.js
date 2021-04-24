@@ -1,0 +1,43 @@
+const data = [
+  {
+    departureTime: "15:28",
+    arrivalTime: "20:28",
+    origin: "Montreal",
+    destination: "Alcatnaz",
+    price: "1",
+    driverName: "Andrew",
+    placesLeft: "2",
+    Rating: "2",
+  },
+  {
+    departureTime: "15:28",
+    arrivalTime: "20:28",
+    origin: "Montreal",
+    destination: "Alcatnaz",
+    price: "1",
+    driverName: "Andrew",
+    placesLeft: "2",
+    Rating: "2",
+  },
+  {
+    departureTime: "15:28",
+    arrivalTime: "20:28",
+    origin: "Montreal",
+    destination: "Alcatnaz",
+    price: "1",
+    driverName: "Andrew",
+    placesLeft: "2",
+    Rating: "2",
+  },
+  {
+    departureTime: "15:28",
+    arrivalTime: "20:28",
+    origin: "Montreal",
+    destination: "Alcatnaz",
+    price: "1",
+    driverName: "Andrew",
+    placesLeft: "2",
+    Rating: "2",
+  },
+];
+export default data;

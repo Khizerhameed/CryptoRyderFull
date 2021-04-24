@@ -1,0 +1,30 @@
+.navbar-light .navbar-nav .nav-link {
+  color: black !important;
+  margin-left: 30px;
+}
+
+.dropdown-toggle::after {
+  display: none !important;
+}
+.dropdown {
+  border-color: none !important;
+}
+.dropdown-menu {
+  margin-left: -41px !important;
+}
+#nav-avatar {
+  margin-top: -2px;
+  margin-right: 5px;
+  margin-left: 10px;
+}
+#dropdown-basic-button {
+  border: 0px;
+  background-color: inherit;
+  color: black;
+  box-shadow: none;
+}
+#dropdown-basic {
+  border: 0px;
+  background-color: inherit;
+  box-shadow: none;
+}
